@@ -40,8 +40,6 @@ h1 {
     background-color: #111;
 }
 
-.nav ul.topnav li a.active {}
-
 .nav ul.topnav li.left {
     float: left;
 }
